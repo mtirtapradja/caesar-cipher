@@ -18,7 +18,7 @@ public class Main {
 		System.out.println("Ciphered message : " + cipheredMessage);
 	}
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		new Main();
 	}
 }
