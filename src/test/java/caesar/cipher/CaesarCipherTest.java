@@ -20,8 +20,7 @@ class CaesarCipherTest {
 
 	
 	@Test void testCipheredMessageWithOffsetOf11() {
-		assertEquals("tai mdq kag pauzs fapmk" ,
-		caesarCipher.cipher("how are you doing today", 11)); 
+		assertEquals("tai mdq kag pauzs fapmk" ,caesarCipher.cipher("how are you doing today", 11)); 
 	}
 	 
 }
