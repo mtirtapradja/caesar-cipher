@@ -16,6 +16,7 @@ public class Main {
 		System.out.println("Message : " + message);
 		System.out.println("Offset : " + offset);
 		System.out.println("Ciphered message : " + cipheredMessage);
+		System.out.println("Created by mtirtapradja a.k.a Marcellino");
 	}
 	
 	public static void main(String[] args) { 
